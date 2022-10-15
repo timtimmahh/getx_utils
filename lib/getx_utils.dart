@@ -1,6 +1,5 @@
 library getx_utils;
 
-export 'data/base_dio_provider.dart';
 export 'exts/connect_ext.dart';
 export 'exts/rx_exts.dart';
 export 'exts/util_exts.dart';
