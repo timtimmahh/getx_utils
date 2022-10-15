@@ -13,8 +13,6 @@ dependencies:
     git:
       url: git@github.com:timtimmahh/dartkt.git
   cached_network_image:
-  dio: ^4.0.6
-  universal_html: ^2.0.8
   flutter:
     sdk: flutter
 
